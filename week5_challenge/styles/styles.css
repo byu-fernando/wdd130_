@@ -1,0 +1,31 @@
+body {
+   margin: 0
+    }
+.head   {
+    width: 100%;
+    padding: 0;
+}
+footer{
+    background-color: #808080;
+    padding: 5%;
+    margin: 0;
+}
+.desk{
+    width: 10%;
+    border-radius: 50%;
+    border: 15px solid black;
+    margin-left: 100px; 
+}
+.graphic{
+    width: 10%;
+    border-radius: 50%;
+    border: 15px solid black;
+    margin-left: 300px; 
+}
+.person{
+    width: 10%;
+    border-radius: 50%;
+    border: 15px solid black;
+    margin-left: 300px; 
+    
+}

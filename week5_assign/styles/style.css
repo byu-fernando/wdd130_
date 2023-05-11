@@ -1,0 +1,106 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+header{
+    background-color: #14b9ff;
+    margin: -10px -10px 0 -10px;
+}
+h1{
+    text-align: center;
+    padding-bottom: 2%;
+}
+.text{
+    
+    margin: -25px -10px 0 -10px;
+
+}
+.desk{
+    width: 15%;
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-left: 5%; 
+}
+.first{
+    padding-top: 2%;
+    
+}
+.graphic{
+    width: 16%;
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-left: 20%; 
+    
+}
+.person{
+    width: 16%;
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-left: 15%; 
+    
+}
+.click{
+    
+    padding-top: 5%;
+}
+nav{
+    text-align: center;
+    width: 10%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+.btn-link{
+    text-decoration: none;
+    border-radius: 3px;
+    width: 160px;
+    text-align: center;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color:white;
+    background-color: #fff474;
+   
+    
+}
+.btn-link:hover{
+    
+    transform: scale(1.05);
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.6);
+      
+}
+footer{
+    background-color:#fff474;
+    color: black;
+    margin: 0px -10px 0 -10px;
+}
+footer a{
+    color: blue;
+    text-decoration: none;
+}
+footer a:hover{
+    color: black;
+}
+.icon {
+    width: 80px;
+}
+
+
+footer p {
+    font-size: 1.2em;
+} 
+footer p a:hover {
+    text-decoration: underline;
+} 
+p{
+    font-family: arial,helvetica;
+    line-height: 125%;
+    padding-left: 1%;
+    padding-right: 1%;
+
+}
